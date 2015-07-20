@@ -1,0 +1,19 @@
+{
+  "name": "iotbot",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vchahun/iotbot",
+  "authors": [
+    "Victor Chahuneau"
+  ],
+  "license": "BSD-2-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
